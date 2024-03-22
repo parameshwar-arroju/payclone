@@ -4,7 +4,7 @@ import { Signin } from './pages/Signin'
 import { Signup } from './pages/Signup'
 import { Dashboard } from './pages/Dashboard'
 import { Layout } from './pages/Laytout'
-import { User } from './components/User'
+import { User } from './pages/User'
 import { RecoilRoot } from 'recoil'
 import { Send } from './pages/Send'
 
